@@ -1,0 +1,11 @@
+/.wordpress-org
+/.git
+/.github
+/node_modules
+/.github
+/.idea
+/phpcs.xml.dist
+/vendor/nesbot/
+*.l10n.php
+*.po~
+**DS_Store

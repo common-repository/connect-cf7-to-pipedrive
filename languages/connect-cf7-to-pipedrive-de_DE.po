@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connect CF7 to PipeDrive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-10 12:59+0000\n"
+"PO-Revision-Date: 2024-06-10 13:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: connect-cf7-to-pipedrive"
+
+#: src/Templates/admin/form.php:166
+msgid " Label Dropdown"
+msgstr " Bezeichnung Dropdown"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: src/Templates/admin/form.php:70
+msgid ", Required"
+msgstr ", Erforderlich"
+
+#: src/Templates/admin/settings.php:21
+msgid "Access Token"
+msgstr "Zugangstoken"
+
+#: src/Admin/Settings.php:30 src/Templates/admin/settings.php:45
+msgid "API Error Notification"
+msgstr "API-Fehlerbenachrichtigung"
+
+#: src/Admin/RegisterMenu.php:44
+msgid "CF7 - PipeDrive"
+msgstr "CF7 - PipeDrive"
+
+#: src/Templates/admin/formList.php:6
+msgid "CF7 - PipeDrive Connection"
+msgstr "CF7 - PipeDrive Verbindung"
+
+#: src/Admin/RegisterMenu.php:62
+msgid "CF7 - PipeDrive: Error Logs"
+msgstr "CF7 - PipeDrive: Fehlerprotokolle"
+
+#: src/Admin/RegisterMenu.php:53
+msgid "CF7 - PipeDrive: Settings"
+msgstr "CF7 - PipeDrive: Einstellungen"
+
+#: src/Templates/admin/formList.php:13
+msgid "CF7 Form"
+msgstr "CF7 Formular"
+
+#: src/Templates/admin/form.php:32 src/Templates/admin/form.php:38
+msgid "CF7 Form Field"
+msgstr "CF7 Formularfeld"
+
+#. Description of the plugin
+msgid ""
+"CF7 To PipeDrive plugin allows you to send Contact Form 7 data to PipeDrive."
+msgstr ""
+"Mit dem CF7 To PipeDrive-Plugin können Sie Daten aus dem Contact Form 7 an "
+"PipeDrive senden."
+
+#: src/Templates/admin/settings.php:34
+msgid "Connect"
+msgstr "Verbinden"
+
+#. Name of the plugin
+msgid "Connect CF7 to PipeDrive"
+msgstr "Verbinde CF7 mit PipeDrive"
+
+#: src/Admin/Settings.php:79
+msgid "Connection Error."
+msgstr "Verbindungsfehler."
+
+#: src/Admin/Settings.php:78
+msgid "Connection Successful."
+msgstr "Verbindung erfolgreich."
+
+#: src/Admin/RegisterMenu.php:43
+msgid "Contact Form 7 - PipeDrive Integration"
+msgstr "Contact Form 7 - PipeDrive Integration"
+
+#: src/Templates/admin/settings.php:73
+msgid "Delete data on uninstall?"
+msgstr "Daten bei Deinstallation löschen?"
+
+#: src/Templates/admin/formList.php:14
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: src/Templates/admin/form.php:114
+msgid "Enable send"
+msgstr "Senden aktivieren"
+
+#: src/Templates/admin/settings.php:67
+msgid ""
+"Enter the email address. For multiple email addresses, you can add email "
+"address by comma separated."
+msgstr ""
+"Geben Sie die E-Mail-Adresse ein. Für mehrere E-Mail-Adressen können Sie E-"
+"Mail-Adressen durch Kommas getrennt hinzufügen."
+
+#: src/Templates/admin/settings.php:57
+msgid "Enter the subject."
+msgstr "Geben Sie den Betreff ein."
+
+#: src/Admin/RegisterMenu.php:63
+msgid "Error Logs"
+msgstr "Fehlerprotokolle"
+
+#. Author URI of the plugin
+msgid "https://procoders.tech/"
+msgstr "https://procoders.tech/"
+
+#: src/Admin/Init.php:220
+msgid "Integration settings saved."
+msgstr "Integrationseinstellungen gespeichert."
+
+#: src/Admin/Logs.php:38
+msgid "No Error Logs found."
+msgstr "Keine Fehlerprotokolle gefunden."
+
+#: src/Templates/admin/formList.php:34
+msgid "No forms found."
+msgstr "Keine Formulare gefunden."
+
+#: src/Admin/SettingsLinks.php:48
+msgctxt "Options link"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/Templates/admin/form.php:33 src/Templates/admin/form.php:39
+msgid "PipeDrive Field"
+msgstr "PipeDrive Feld"
+
+#: src/Admin/SettingsLinks.php:50
+msgctxt "Plugin site"
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#. Author of the plugin
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#: src/Templates/admin/settings.php:87 src/Templates/admin/form.php:96
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: src/Templates/admin/form.php:144
+msgid "Search org by name"
+msgstr "Suche Organisation nach Namen"
+
+#: src/Templates/admin/form.php:133
+msgid "Search person by email"
+msgstr "Suche Person nach E-Mail"
+
+#: src/Templates/admin/form.php:50
+msgid "Select a field"
+msgstr "Wählen Sie ein Feld aus"
+
+#: src/Templates/admin/settings.php:62
+msgid "Send To"
+msgstr "Senden an"
+
+#: src/Admin/RegisterMenu.php:54 src/Templates/admin/settings.php:6
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/Templates/admin/settings.php:52
+msgid "Subject"
+msgstr "Betreff"
+
+#: src/Templates/admin/form.php:98
+msgid ""
+"The plugin functions as follows: Based on the available fields, it will "
+"create\n"
+"                        corresponding entities on the Pipedrive side and "
+"establish dependencies between them.\n"
+"                        Additionally, it generates a new lead based on these "
+"entities. So, if you have fields like name,\n"
+"                        phone, email, address, and message, the plugin will "
+"create a lead with the person specified in\n"
+"                        the name field along with the corresponding phone "
+"number and email. Additionally, it will create\n"
+"                        a company with the address specified in the address "
+"field. Then, it will attach the message as a\n"
+"                        note to the lead."
+msgstr ""
+"Die Funktion des Plugins ist wie folgt: Es erstellt basierend auf den "
+"verfügbaren Feldern entsprechende Einheiten in Pipedrive und erstellt "
+"Abhängigkeiten zwischen ihnen.\n"
+"                        Zusätzlich generiert es einen neuen Lead basierend "
+"auf diesen Einheiten. Wenn Sie also Felder wie Name,\n"
+"                        Telefon, E-Mail, Adresse und Nachricht haben, wird "
+"das Plugin einen Lead mit der im Feld Name angegebenen Person sowie der "
+"entsprechenden Telefonnummer und E-Mail erstellen. Zusätzlich wird es\n"
+"                        ein Unternehmen mit der im Feld Adresse angegebenen "
+"Adresse erstellen. Dann fügt es die Nachricht als\n"
+"                        Notiz zum Lead hinzu."
+
+#: src/Templates/admin/form.php:143
+msgid "Update organization if exist"
+msgstr "Organisation aktualisieren, wenn sie existiert"
+
+#: src/Templates/admin/form.php:132
+msgid "Update person if exist"
+msgstr "Person aktualisieren, wenn sie existiert"
+
+#: src/Templates/admin/form.php:156
+msgid ""
+"Utilize these preconfigured CF7 tags to simplify label mapping. Simply "
+"insert this tag into the CF7 form editor and select the appropriate "
+"Pipedrive label field in our plugin."
+msgstr ""
+"Nutzen Sie diese vordefinierten CF7-Tags, um die Etikettzuordnung zu "
+"vereinfachen. Fügen Sie einfach dieses Tag in den CF7-Formular-Editor ein "
+"und wählen Sie das entsprechende Pipedrive-Etikettfeld in unserem Plugin aus."
+
+#: src/Templates/admin/settings.php:39
+msgid ""
+"Your personal API key can be found under Settings > Personal preferences > "
+"API. user guide"
+msgstr ""
+"Ihr persönlicher API-Schlüssel ist zu finden unter Einstellungen > "
+"Persönliche Einstellungen > API. Benutzerhandbuch"

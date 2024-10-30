@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connect CF7 to PipeDrive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-10 12:59+0000\n"
+"PO-Revision-Date: 2024-06-10 13:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: connect-cf7-to-pipedrive"
+
+#: src/Templates/admin/form.php:166
+msgid " Label Dropdown"
+msgstr " תווית נפתחת"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: src/Templates/admin/form.php:70
+msgid ", Required"
+msgstr ", נדרש"
+
+#: src/Templates/admin/settings.php:21
+msgid "Access Token"
+msgstr "אסימון גישה"
+
+#: src/Admin/Settings.php:30 src/Templates/admin/settings.php:45
+msgid "API Error Notification"
+msgstr "הודעת שגיאה API"
+
+#: src/Admin/RegisterMenu.php:44
+msgid "CF7 - PipeDrive"
+msgstr "CF7 - PipeDrive"
+
+#: src/Templates/admin/formList.php:6
+msgid "CF7 - PipeDrive Connection"
+msgstr "חיבור CF7 - PipeDrive"
+
+#: src/Admin/RegisterMenu.php:62
+msgid "CF7 - PipeDrive: Error Logs"
+msgstr "CF7 - PipeDrive: יומני שגיאות"
+
+#: src/Admin/RegisterMenu.php:53
+msgid "CF7 - PipeDrive: Settings"
+msgstr "CF7 - PipeDrive: הגדרות"
+
+#: src/Templates/admin/formList.php:13
+msgid "CF7 Form"
+msgstr "טופס CF7"
+
+#: src/Templates/admin/form.php:32 src/Templates/admin/form.php:38
+msgid "CF7 Form Field"
+msgstr "שדה טופס CF7"
+
+#. Description of the plugin
+msgid ""
+"CF7 To PipeDrive plugin allows you to send Contact Form 7 data to PipeDrive."
+msgstr ""
+"תוסף CF7 To PipeDrive מאפשר לך לשלוח נתונים מטופס יצירת קשר 7 ל-PipeDrive."
+
+#: src/Templates/admin/settings.php:34
+msgid "Connect"
+msgstr "חבר"
+
+#. Name of the plugin
+msgid "Connect CF7 to PipeDrive"
+msgstr "חבר את CF7 ל-PipeDrive"
+
+#: src/Admin/Settings.php:79
+msgid "Connection Error."
+msgstr "שגיאת חיבור."
+
+#: src/Admin/Settings.php:78
+msgid "Connection Successful."
+msgstr "החיבור הצליח."
+
+#: src/Admin/RegisterMenu.php:43
+msgid "Contact Form 7 - PipeDrive Integration"
+msgstr "אינטגרציה של טופס יצירת קשר 7 - PipeDrive"
+
+#: src/Templates/admin/settings.php:73
+msgid "Delete data on uninstall?"
+msgstr "למחוק נתונים בעת הסרה?"
+
+#: src/Templates/admin/formList.php:14
+msgid "Edit"
+msgstr "ערוך"
+
+#: src/Templates/admin/form.php:114
+msgid "Enable send"
+msgstr "אפשר שליחה"
+
+#: src/Templates/admin/settings.php:67
+msgid ""
+"Enter the email address. For multiple email addresses, you can add email "
+"address by comma separated."
+msgstr ""
+"הזן את כתובת האימייל. לכתובות אימייל מרובות, אתה יכול להוסיף כתובת אימייל "
+"באמצעות פסיק."
+
+#: src/Templates/admin/settings.php:57
+msgid "Enter the subject."
+msgstr "הכנס את הנושא."
+
+#: src/Admin/RegisterMenu.php:63
+msgid "Error Logs"
+msgstr "יומני שגיאות"
+
+#. Author URI of the plugin
+msgid "https://procoders.tech/"
+msgstr "https://procoders.tech/"
+
+#: src/Admin/Init.php:220
+msgid "Integration settings saved."
+msgstr "הגדרות האינטגרציה נשמרו."
+
+#: src/Admin/Logs.php:38
+msgid "No Error Logs found."
+msgstr "לא נמצאו יומני שגיאות."
+
+#: src/Templates/admin/formList.php:34
+msgid "No forms found."
+msgstr "לא נמצאו טפסים."
+
+#: src/Admin/SettingsLinks.php:48
+msgctxt "Options link"
+msgid "Settings"
+msgstr "הגדרות"
+
+#: src/Templates/admin/form.php:33 src/Templates/admin/form.php:39
+msgid "PipeDrive Field"
+msgstr "שדה PipeDrive"
+
+#: src/Admin/SettingsLinks.php:50
+msgctxt "Plugin site"
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#. Author of the plugin
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#: src/Templates/admin/settings.php:87 src/Templates/admin/form.php:96
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: src/Templates/admin/form.php:144
+msgid "Search org by name"
+msgstr "חפש ארגון לפי שם"
+
+#: src/Templates/admin/form.php:133
+msgid "Search person by email"
+msgstr "חפש אדם לפי דואר אלקטרוני"
+
+#: src/Templates/admin/form.php:50
+msgid "Select a field"
+msgstr "בחר שדה"
+
+#: src/Templates/admin/settings.php:62
+msgid "Send To"
+msgstr "שלח אל"
+
+#: src/Admin/RegisterMenu.php:54 src/Templates/admin/settings.php:6
+msgid "Settings"
+msgstr "הגדרות"
+
+#: src/Templates/admin/settings.php:52
+msgid "Subject"
+msgstr "נושא"
+
+#: src/Templates/admin/form.php:98
+msgid ""
+"The plugin functions as follows: Based on the available fields, it will "
+"create\n"
+"                        corresponding entities on the Pipedrive side and "
+"establish dependencies between them.\n"
+"                        Additionally, it generates a new lead based on these "
+"entities. So, if you have fields like name,\n"
+"                        phone, email, address, and message, the plugin will "
+"create a lead with the person specified in\n"
+"                        the name field along with the corresponding phone "
+"number and email. Additionally, it will create\n"
+"                        a company with the address specified in the address "
+"field. Then, it will attach the message as a\n"
+"                        note to the lead."
+msgstr ""
+"התוסף פועל כך: בהתאם לשדות הזמינים, יצור את הישויות המקבילות בצד Pipedrive "
+"וייצור תלות ביניהם. בנוסף, התוסף מייצר ליד חדש בהתאם לישויות האלה. אז, אם יש "
+"לך שדות כמו שם, טלפון, דואר אלקטרוני, כתובת והודעה, התוסף ייצור ליד עם האיש "
+"שצוין בשדה השם יחד עם מספר הטלפון המתאים והדואר האלקטרוני. בנוסף, ייצור חברה "
+"עם הכתובת שצוינה בשדה הכתובת. אז, יצרף את ההודעה כהערה לליד."
+
+#: src/Templates/admin/form.php:143
+msgid "Update organization if exist"
+msgstr "עדכן ארגון אם קיים"
+
+#: src/Templates/admin/form.php:132
+msgid "Update person if exist"
+msgstr "עדכן אדם אם קיים"
+
+#: src/Templates/admin/form.php:156
+msgid ""
+"Utilize these preconfigured CF7 tags to simplify label mapping. Simply "
+"insert this tag into the CF7 form editor and select the appropriate "
+"Pipedrive label field in our plugin."
+msgstr ""
+"השתמש בתגיות CF7 מוגדרות מראש אלה כדי לפשט את מיפוי התוויות. פשוט הכנס את "
+"התגית הזו לעורך הטפסים של CF7 ובחר את שדה התווית המתאים של Pipedrive בתוסף "
+"שלנו."
+
+#: src/Templates/admin/settings.php:39
+msgid ""
+"Your personal API key can be found under Settings > Personal preferences > "
+"API. user guide"
+msgstr ""
+"מפתח ה-API האישי שלך נמצא תחת הגדרות > העדפות אישיות > API. מדריך למשתמש"
